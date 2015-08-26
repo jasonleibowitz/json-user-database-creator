@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.13.3",
     "faker": "^3.0.1",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "path-to-regexp": "^1.2.1"
   }
 }
