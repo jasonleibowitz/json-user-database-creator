@@ -64,9 +64,8 @@ module.exports = {
 		}
 
 		// New York Employee Creator
-		console.log('making ny employee');
 		_.times(numNY, function(n) {
-			faker.local = 'en';
+			faker.locale = 'en';
 			directory.push({
 				// id: idCounterFunc(),
 				firstName: faker.name.firstName(),
@@ -88,9 +87,8 @@ module.exports = {
 		});
 
 		// France Employee Creator
-		console.log('making french employees');
 		_.times(numFrance, function(n) {
-			faker.local = 'fr';
+			faker.locale = 'fr';
 			directory.push({
 				// id: idCounterFunc(),
 				firstName: faker.name.firstName(),
@@ -112,61 +110,58 @@ module.exports = {
 		});
 
 		// English Employee Creator
-		// console.log('making british employees');
-		// _.times(numLondon, function(n) {
-		// 	faker.local = 'en';
-		// 	directory.push({
-		// 		// id: idCounterFunc(),
-		// 		firstName: faker.name.firstName(),
-		// 		lastName: faker.name.lastName(),
-		// 		city: "London",
-		// 		title: lazardTitleGenerator(),
-		// 		businessUnit: lazardBusinessUnitGenerator(),
-		// 		dept: faker.commerce.department(),
-		// 		ext: faker.random.number({
-		// 			min: 1111,
-		// 			max: 9999
-		// 		})
-		// 	});
-		// });
-		//
-		// // Chicago Employee Creator
-		// console.log('making chicago employees');
-		// _.times(numChicago, function(n) {
-		// 	faker.local = 'en';
-		// 	directory.push({
-		// 		// id: idCounterFunc(),
-		// 		firstName: faker.name.firstName(),
-		// 		lastName: faker.name.lastName(),
-		// 		city: "Chicago",
-		// 		title: lazardTitleGenerator(),
-		// 		businessUnit: lazardBusinessUnitGenerator(),
-		// 		dept: faker.commerce.department(),
-		// 		ext: faker.random.number({
-		// 			min: 1111,
-		// 			max: 9999
-		// 		})
-		// 	});
-		// });
-		//
-		// // Houston Employee Creator
-		// console.log('making houston employees');
-		// _.times(numHouston, function(n) {
-		// 	faker.local = 'en';
-		// 	directory.push({
-		// 		// id: idCounterFunc(),
-		// 		firstName: faker.name.firstName(),
-		// 		lastName: faker.name.lastName(),
-		// 		city: "Houston",
-		// 		title: lazardTitleGenerator(),
-		// 		businessUnit: lazardBusinessUnitGenerator(),
-		// 		dept: faker.commerce.department(),
-		// 		ext: faker.random.number({
-		// 			min: 1111,
-		// 			max: 9999
-		// 		})
-		// 	});
-		// });
+		_.times(numLondon, function(n) {
+			faker.locale = 'en';
+			directory.push({
+				// id: idCounterFunc(),
+				firstName: faker.name.firstName(),
+				lastName: faker.name.lastName(),
+				city: "London",
+				title: lazardTitleGenerator(),
+				businessUnit: lazardBusinessUnitGenerator(),
+				dept: faker.commerce.department(),
+				ext: faker.random.number({
+					min: 1111,
+					max: 9999
+				})
+			});
+		});
+
+		// Chicago Employee Creator
+		_.times(numChicago, function(n) {
+			faker.locale = 'en';
+			directory.push({
+				// id: idCounterFunc(),
+				firstName: faker.name.firstName(),
+				lastName: faker.name.lastName(),
+				city: "Chicago",
+				title: lazardTitleGenerator(),
+				businessUnit: lazardBusinessUnitGenerator(),
+				dept: faker.commerce.department(),
+				ext: faker.random.number({
+					min: 1111,
+					max: 9999
+				})
+			});
+		});
+
+		// Houston Employee Creator
+		_.times(numHouston, function(n) {
+			faker.locale = 'en';
+			directory.push({
+				// id: idCounterFunc(),
+				firstName: faker.name.firstName(),
+				lastName: faker.name.lastName(),
+				city: "Houston",
+				title: lazardTitleGenerator(),
+				businessUnit: lazardBusinessUnitGenerator(),
+				dept: faker.commerce.department(),
+				ext: faker.random.number({
+					min: 1111,
+					max: 9999
+				})
+			});
+		});
 
 		return directory;
 	}
