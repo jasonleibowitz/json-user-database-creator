@@ -1,1893 +1,3915 @@
 [{
-	"firstName": "Herta",
-	"lastName": "Shields",
+	"firstName": "Carissa",
+	"lastName": "Hilpert",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 8643,
+	"floor": 17,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Marina Weimann",
+		"ext": 2602
+	}]
+}, {
+	"firstName": "Oral",
+	"lastName": "Keebler",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 6016,
+	"floor": 75,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Haylee Baumbach Mrs.",
+		"ext": 8676
+	}]
+}, {
+	"firstName": "Florence",
+	"lastName": "Keeling",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 1956,
+	"floor": 76,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Shanny Schoen",
+		"ext": 3972
+	}]
+}, {
+	"firstName": "Elwin",
+	"lastName": "Kuhic",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 2403,
+	"floor": 93,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Ramona Corkery",
+		"ext": 3620
+	}]
+}, {
+	"firstName": "Raphaelle",
+	"lastName": "Ruecker",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 6451,
+	"floor": 69,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Evan",
+	"lastName": "Graham",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 2867,
+	"floor": 20,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Ethelyn",
+	"lastName": "Stark",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 9984,
+	"floor": 46,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Conner",
+	"lastName": "Cummings",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 7689,
+	"floor": 51,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Braxton Kunde",
+		"ext": 7516
+	}]
+}, {
+	"firstName": "Alan",
+	"lastName": "Swift",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 2285,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Millie",
+	"lastName": "Mante",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 1568,
+	"floor": 71,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "George Emmerich Mrs.",
+		"ext": 2556
+	}]
+}, {
+	"firstName": "Dejon",
+	"lastName": "McKenzie",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 7060,
+	"floor": 66,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Cheyanne",
+	"lastName": "Price",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 5066,
+	"floor": 67,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Erika Lehner",
+		"ext": 8996
+	}]
+}, {
+	"firstName": "Demetris",
+	"lastName": "Roob",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7951,
+	"floor": 30,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Merlin Breitenberg",
+		"ext": 7783
+	}]
+}, {
+	"firstName": "Aliya",
+	"lastName": "Johnson",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1843,
+	"floor": 51,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Anastasia Hoppe",
+		"ext": 5422
+	}]
+}, {
+	"firstName": "Daniela",
+	"lastName": "Swaniawski",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6246,
+	"floor": 86,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Marquis Glover",
+		"ext": 6019
+	}]
+}, {
+	"firstName": "Scarlett",
+	"lastName": "Renner",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 9266,
+	"floor": 32,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Rickey Bernhard",
+		"ext": 4605
+	}]
+}, {
+	"firstName": "Elisabeth",
+	"lastName": "Bosco",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Information Technology",
+	"ext": 4630,
+	"floor": 25,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Brooks Okuneva",
+		"ext": 2545
+	}]
+}, {
+	"firstName": "Jeramie",
+	"lastName": "Flatley",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 7798,
+	"floor": 89,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Merl Dickens",
+		"ext": 1992
+	}]
+}, {
+	"firstName": "Scotty",
+	"lastName": "Walker",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 1944,
+	"floor": 51,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Kristofer",
+	"lastName": "Donnelly",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 9466,
+	"floor": 91,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Bettye Grant",
+		"ext": 3653
+	}]
+}, {
+	"firstName": "Kaycee",
+	"lastName": "Tremblay",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 6558,
+	"floor": 13,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Jackeline Nikolaus",
+		"ext": 2391
+	}]
+}, {
+	"firstName": "Olga",
+	"lastName": "Kiehn",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 4550,
+	"floor": 29,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Johanna Little",
+		"ext": 9779
+	}]
+}, {
+	"firstName": "Madisen",
+	"lastName": "Morissette",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 7291,
+	"floor": 82,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Stone Heaney",
+		"ext": 6636
+	}]
+}, {
+	"firstName": "Deborah",
+	"lastName": "Smith",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 3006,
+	"floor": 50,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Magnolia",
+	"lastName": "Parker",
 	"city": "New York",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 2332,
-	"floor": 77,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 2768,
+	"floor": 11,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Toy",
-	"lastName": "Jenkins",
+	"firstName": "Bradley",
+	"lastName": "Cole",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 7259,
+	"floor": 42,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Tavares Yundt",
+		"ext": 4677
+	}]
+}, {
+	"firstName": "Alisa",
+	"lastName": "Welch",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 7908,
+	"floor": 73,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Aniya Pacocha",
+		"ext": 4569
+	}]
+}, {
+	"firstName": "Ernestine",
+	"lastName": "Kihn",
 	"city": "New York",
 	"title": "Managing Director",
-	"businessUnit": "Asset Management",
+	"businessUnit": "Corporate",
 	"dept": "Generalist",
-	"ext": 1964,
-	"floor": 79,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 7665,
+	"floor": 76,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Louisa",
-	"lastName": "Langworth",
+	"firstName": "Keegan",
+	"lastName": "Pollich",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 2030,
+	"floor": 65,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Eulah Hand",
+		"ext": 2340
+	}]
+}, {
+	"firstName": "Johnnie",
+	"lastName": "Frami",
 	"city": "New York",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 4704,
-	"floor": 30,
-	"phoneNumber": "+1 212 632 6000"
+	"dept": "Human Resources",
+	"ext": 7154,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Corrine",
-	"lastName": "Mohr",
+	"firstName": "Marilyne",
+	"lastName": "Cremin",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 9380,
+	"floor": 87,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dorcas Legros",
+		"ext": 2557
+	}]
+}, {
+	"firstName": "Porter",
+	"lastName": "Tillman",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7621,
+	"floor": 32,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Oren Koss Miss",
+		"ext": 7525
+	}]
+}, {
+	"firstName": "Tressie",
+	"lastName": "Hills",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 7087,
+	"floor": 43,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Friedrich Carter",
+		"ext": 5061
+	}]
+}, {
+	"firstName": "Elena",
+	"lastName": "Kuhn",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 7621,
+	"floor": 93,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Juston Stehr",
+		"ext": 2642
+	}]
+}, {
+	"firstName": "Nathen",
+	"lastName": "Bashirian",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 8592,
+	"floor": 67,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Brittany Weimann",
+		"ext": 8650
+	}]
+}, {
+	"firstName": "Isac",
+	"lastName": "Gutkowski",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 3585,
+	"floor": 19,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Albert",
+	"lastName": "Howe",
 	"city": "New York",
 	"title": "Director",
 	"businessUnit": "Middle Market Advisory",
 	"dept": "Information Technology",
-	"ext": 3971,
-	"floor": 38,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Keagan",
-	"lastName": "Gulgowski",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 6776,
-	"floor": 57,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Ricky",
-	"lastName": "Howe",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 4495,
-	"floor": 34,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Judson",
-	"lastName": "Thiel",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 4413,
-	"floor": 64,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Carleton",
-	"lastName": "Gleichner",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 3417,
-	"floor": 78,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Nils",
-	"lastName": "O'Hara",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 7061,
-	"floor": 91,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Edyth",
-	"lastName": "Stamm",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 2678,
-	"floor": 29,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Makenzie",
-	"lastName": "Gorczany",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 1885,
-	"floor": 76,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Aubrey",
-	"lastName": "Denesik",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 2159,
-	"floor": 82,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Harold",
-	"lastName": "Harber",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 4728,
-	"floor": 52,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Jayne",
-	"lastName": "Kunze",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 3714,
-	"floor": 74,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Rodolfo",
-	"lastName": "Schimmel",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 8343,
-	"floor": 46,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Wilfredo",
-	"lastName": "Botsford",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 8861,
-	"floor": 78,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Janis",
-	"lastName": "Fahey",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 2101,
-	"floor": 75,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Arjun",
-	"lastName": "Wuckert",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 6985,
-	"floor": 86,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Helmer",
-	"lastName": "Hagenes",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 4940,
-	"floor": 71,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Carmela",
-	"lastName": "Bartell",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 7314,
+	"ext": 5766,
 	"floor": 83,
-	"phoneNumber": "+1 212 632 6000"
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Keshaun",
-	"lastName": "Goldner",
+	"firstName": "Marley",
+	"lastName": "Langosh",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 8582,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Reece Batz Ms.",
+		"ext": 7772
+	}]
+}, {
+	"firstName": "Dawn",
+	"lastName": "Mohr",
 	"city": "New York",
 	"title": "Analyst",
 	"businessUnit": "Asset Management",
 	"dept": "Information Technology",
-	"ext": 6860,
-	"floor": 27,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 9976,
+	"floor": 83,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Shayne Langosh",
+		"ext": 6988
+	}]
 }, {
-	"firstName": "Jamel",
-	"lastName": "Littel",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 7938,
-	"floor": 96,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Dewitt",
-	"lastName": "Shanahan",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 9428,
-	"floor": 27,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Trace",
-	"lastName": "Herman",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 4930,
-	"floor": 27,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Garland",
-	"lastName": "Bartoletti",
+	"firstName": "Lexi",
+	"lastName": "Auer",
 	"city": "New York",
 	"title": "Vice President",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 2061,
-	"floor": 25,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Faustino",
-	"lastName": "Simonis",
-	"city": "New York",
-	"title": "Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 8246,
-	"floor": 17,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 1175,
+	"floor": 63,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Adolph",
-	"lastName": "Conn",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Asset Management",
-	"dept": "Legal",
-	"ext": 1789,
-	"floor": 62,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Leonora",
-	"lastName": "Christiansen",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 3469,
-	"floor": 97,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "William",
-	"lastName": "Lang",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 3766,
-	"floor": 30,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Yvonne",
-	"lastName": "Boyle",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 6180,
-	"floor": 18,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Anjali",
-	"lastName": "Tremblay",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 4729,
-	"floor": 37,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Carolanne",
-	"lastName": "Steuber",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 4465,
-	"floor": 22,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Darryl",
+	"firstName": "Montana",
 	"lastName": "Bauch",
 	"city": "New York",
 	"title": "Director",
-	"businessUnit": "Asset Management",
-	"dept": "Information Technology",
-	"ext": 2777,
-	"floor": 37,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Adrien",
-	"lastName": "Pouros",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 8997,
-	"floor": 85,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Gloria",
-	"lastName": "Graham",
-	"city": "New York",
-	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 5759,
-	"floor": 63,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 5050,
+	"floor": 70,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Marisa Fritsch",
+		"ext": 3935
+	}]
 }, {
-	"firstName": "Brook",
-	"lastName": "Lakin",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Middle Market Advisory",
-	"dept": "Generalist",
-	"ext": 3791,
-	"floor": 51,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Cayla",
-	"lastName": "Ortiz",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 9189,
-	"floor": 27,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Adrain",
-	"lastName": "Johnson",
+	"firstName": "Lionel",
+	"lastName": "Terry",
 	"city": "New York",
 	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Legal",
-	"ext": 2270,
-	"floor": 77,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Maggie",
-	"lastName": "Runolfsson",
-	"city": "New York",
-	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 8497,
-	"floor": 84,
-	"phoneNumber": "+1 212 632 6000"
+	"dept": "Generalist",
+	"ext": 9574,
+	"floor": 21,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Elliot",
-	"lastName": "Kuphal",
+	"firstName": "Melissa",
+	"lastName": "Grimes",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 5275,
+	"floor": 75,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Idell Lynch",
+		"ext": 3146
+	}]
+}, {
+	"firstName": "Godfrey",
+	"lastName": "O'Hara",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 2425,
+	"floor": 89,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Selina",
+	"lastName": "McLaughlin",
 	"city": "New York",
 	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 4427,
-	"floor": 71,
-	"phoneNumber": "+1 212 632 6000"
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 5600,
+	"floor": 29,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Georgiana",
-	"lastName": "Hammes",
+	"firstName": "Bernard",
+	"lastName": "Doyle",
 	"city": "New York",
 	"title": "Associate",
 	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 3634,
-	"floor": 92,
-	"phoneNumber": "+1 212 632 6000"
+	"dept": "Information Technology",
+	"ext": 5846,
+	"floor": 64,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Leola",
-	"lastName": "Schmitt",
+	"firstName": "Fleta",
+	"lastName": "Kuhic",
 	"city": "New York",
-	"title": "Managing Director",
+	"title": "Associate",
 	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 8853,
-	"floor": 90,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 7259,
+	"floor": 79,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Austin Nader",
+		"ext": 2050
+	}]
 }, {
-	"firstName": "Donny",
-	"lastName": "Kovacek",
+	"firstName": "Anita",
+	"lastName": "Bogan",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 7003,
+	"floor": 23,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Annabell Hilll",
+		"ext": 4587
+	}]
+}, {
+	"firstName": "Chance",
+	"lastName": "Pagac",
 	"city": "New York",
 	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
+	"businessUnit": "Asset Management",
 	"dept": "Generalist",
-	"ext": 9505,
-	"floor": 89,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 5342,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Lambert",
+	"firstName": "Gaetano",
+	"lastName": "Funk",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 3957,
+	"floor": 72,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Mack",
 	"lastName": "Metz",
 	"city": "New York",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 5921,
-	"floor": 44,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Verla",
-	"lastName": "Schumm",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 2801,
-	"floor": 90,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Roxane",
-	"lastName": "Yundt",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Corporate",
 	"dept": "Human Resources",
-	"ext": 8139,
-	"floor": 31,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 9483,
+	"floor": 61,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Monica Reichel Mrs.",
+		"ext": 4293
+	}]
 }, {
-	"firstName": "Pearline",
-	"lastName": "Hane",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 6349,
-	"floor": 68,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Araceli",
-	"lastName": "Johnston",
+	"firstName": "Dagmar",
+	"lastName": "Casper",
 	"city": "New York",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 8806,
-	"floor": 16,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Barton",
-	"lastName": "Douglas",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 3901,
-	"floor": 34,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Teagan",
-	"lastName": "Krajcik",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 8680,
+	"ext": 7335,
 	"floor": 58,
-	"phoneNumber": "+1 212 632 6000"
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Araceli Kovacek",
+		"ext": 1117
+	}]
 }, {
-	"firstName": "Marlee",
-	"lastName": "Spencer",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 1171,
-	"floor": 35,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Amya",
-	"lastName": "Ondricka",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 8801,
-	"floor": 37,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Aidan",
-	"lastName": "McGlynn",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 8136,
-	"floor": 91,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Bernice",
-	"lastName": "Davis",
+	"firstName": "Daphnee",
+	"lastName": "Schoen",
 	"city": "New York",
 	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 8706,
-	"floor": 93,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Eva",
-	"lastName": "Corkery",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 1240,
-	"floor": 37,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Kattie",
-	"lastName": "Olson",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 3742,
-	"floor": 85,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Effie",
-	"lastName": "Heidenreich",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3835,
-	"floor": 20,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Edward",
-	"lastName": "Mraz",
-	"city": "New York",
-	"title": "Director",
 	"businessUnit": "Asset Management",
 	"dept": "Information Technology",
-	"ext": 4166,
-	"floor": 27,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 6150,
+	"floor": 41,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mrs. Bobby Johns",
+		"ext": 2877
+	}]
 }, {
-	"firstName": "Aiyana",
-	"lastName": "Swaniawski",
-	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 5884,
-	"floor": 78,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Gardner",
-	"lastName": "McKenzie",
+	"firstName": "Jerrod",
+	"lastName": "Balistreri",
 	"city": "New York",
 	"title": "Analyst",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 3369,
-	"floor": 46,
-	"phoneNumber": "+1 212 632 6000"
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 4012,
+	"floor": 34,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Elenor",
+	"firstName": "Giovanna",
 	"lastName": "Ullrich",
 	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 4220,
-	"floor": 91,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Aliyah",
-	"lastName": "Connelly",
-	"city": "New York",
-	"title": "Vice President",
+	"title": "Managing Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 7555,
-	"floor": 74,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 9577,
+	"floor": 24,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Gideon",
-	"lastName": "Cole",
+	"firstName": "Blake",
+	"lastName": "Nolan",
 	"city": "New York",
 	"title": "Associate",
 	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 6618,
-	"floor": 78,
-	"phoneNumber": "+1 212 632 6000"
+	"dept": "Legal",
+	"ext": 9496,
+	"floor": 79,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Edison",
-	"lastName": "Bauch",
+	"firstName": "Jazmin",
+	"lastName": "Rogahn",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 2685,
+	"floor": 83,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Wilson",
+	"lastName": "Casper",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 8230,
+	"floor": 79,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Maggie Bartoletti",
+		"ext": 6537
+	}]
+}, {
+	"firstName": "Gage",
+	"lastName": "Mueller",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 9614,
+	"floor": 36,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Isaias Waters",
+		"ext": 9110
+	}]
+}, {
+	"firstName": "Lisa",
+	"lastName": "Green",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 8412,
+	"floor": 72,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Nicklaus Torphy",
+		"ext": 8196
+	}]
+}, {
+	"firstName": "Gwendolyn",
+	"lastName": "Rice",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 4114,
+	"floor": 85,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Fannie Runolfsson",
+		"ext": 6095
+	}]
+}, {
+	"firstName": "Britney",
+	"lastName": "Dooley",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 5125,
+	"floor": 97,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Trent",
+	"lastName": "Hansen",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 7484,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Aiyana Fadel Mr.",
+		"ext": 9606
+	}]
+}, {
+	"firstName": "Harmon",
+	"lastName": "Hamill",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 9099,
+	"floor": 54,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mr. Eulah Kassulke",
+		"ext": 7033
+	}]
+}, {
+	"firstName": "Drake",
+	"lastName": "Hirthe",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6913,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Moshe",
+	"lastName": "Gorczany",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6616,
+	"floor": 82,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Wellington Walker",
+		"ext": 6974
+	}]
+}, {
+	"firstName": "Roberta",
+	"lastName": "Abernathy",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 5306,
+	"floor": 45,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Verdie Oberbrunner",
+		"ext": 3569
+	}]
+}, {
+	"firstName": "Willie",
+	"lastName": "Hane",
 	"city": "New York",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 7379,
-	"floor": 87,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 2100,
+	"floor": 93,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Merritt",
-	"lastName": "Kuhn",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 4042,
-	"floor": 19,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Baby",
-	"lastName": "Torp",
+	"firstName": "Favian",
+	"lastName": "Wunsch",
 	"city": "New York",
 	"title": "Director",
-	"businessUnit": "Asset Management",
+	"businessUnit": "Middle Market Advisory",
 	"dept": "Generalist",
-	"ext": 6489,
-	"floor": 58,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 8771,
+	"floor": 34,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mariano Nikolaus",
+		"ext": 7453
+	}]
 }, {
-	"firstName": "Clementine",
-	"lastName": "Herman",
+	"firstName": "Terrill",
+	"lastName": "VonRueden",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 1657,
+	"floor": 24,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Ms. Palma Rutherford",
+		"ext": 5787
+	}]
+}, {
+	"firstName": "Jonas",
+	"lastName": "Bartoletti",
 	"city": "New York",
 	"title": "Managing Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 7619,
-	"floor": 21,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 8521,
+	"floor": 96,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Agnes",
-	"lastName": "Veum",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 9671,
-	"floor": 58,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Jensen",
-	"lastName": "Goodwin",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 2829,
-	"floor": 58,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Josephine",
-	"lastName": "Mitchell",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 7311,
-	"floor": 81,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Owen",
-	"lastName": "Bechtelar",
+	"firstName": "Amani",
+	"lastName": "Gleason",
 	"city": "New York",
 	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 4933,
-	"floor": 26,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Gerry",
-	"lastName": "Jacobi",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
+	"businessUnit": "Middle Market Advisory",
 	"dept": "Human Resources",
-	"ext": 4056,
-	"floor": 26,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Ceasar",
-	"lastName": "Paucek",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 4541,
-	"floor": 43,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Russell",
-	"lastName": "Murray",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 2002,
-	"floor": 40,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Theresia",
-	"lastName": "Raynor",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 6420,
+	"ext": 4764,
 	"floor": 62,
-	"phoneNumber": "+1 212 632 6000"
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Delmer",
-	"lastName": "Bogisich",
+	"firstName": "Oceane",
+	"lastName": "Ondricka",
 	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Information Technology",
-	"ext": 3014,
-	"floor": 67,
-	"phoneNumber": "+1 212 632 6000"
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 8127,
+	"floor": 55,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Margie",
-	"lastName": "Botsford",
+	"firstName": "Queen",
+	"lastName": "Ritchie",
 	"city": "New York",
-	"title": "Director",
+	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 1567,
-	"floor": 12,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 3202,
+	"floor": 91,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Arlene",
-	"lastName": "Kling",
+	"firstName": "Ewell",
+	"lastName": "Parker",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 1855,
+	"floor": 54,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Mayra",
+	"lastName": "Keeling",
 	"city": "New York",
 	"title": "Senior Vice President",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 4559,
-	"floor": 45,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 8673,
+	"floor": 55,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Okey",
-	"lastName": "Schultz",
+	"firstName": "Columbus",
+	"lastName": "Reichert",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 8719,
+	"floor": 55,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Chance Ruecker",
+		"ext": 8721
+	}]
+}, {
+	"firstName": "Lilly",
+	"lastName": "Wyman",
 	"city": "New York",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 5602,
-	"floor": 28,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Natasha",
-	"lastName": "Luettgen",
-	"city": "New York",
-	"title": "Analyst",
-	"businessUnit": "Corporate",
 	"dept": "Generalist",
-	"ext": 6609,
-	"floor": 13,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Anissa",
-	"lastName": "Windler",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 9782,
-	"floor": 45,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Malinda",
-	"lastName": "Ankunding",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 2310,
-	"floor": 66,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Wava",
-	"lastName": "Friesen",
-	"city": "New York",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 6009,
-	"floor": 68,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Jerrell",
-	"lastName": "Orn",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 1183,
-	"floor": 54,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 2325,
+	"floor": 94,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
 	"firstName": "Devon",
+	"lastName": "Witting",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 3141,
+	"floor": 32,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Alphonso Luettgen",
+		"ext": 9902
+	}]
+}, {
+	"firstName": "Cordell",
+	"lastName": "Schuppe",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 7165,
+	"floor": 37,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Lila Wintheiser",
+		"ext": 7109
+	}]
+}, {
+	"firstName": "Delilah",
+	"lastName": "Rutherford",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 1352,
+	"floor": 64,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Yvette Bergnaum",
+		"ext": 7915
+	}]
+}, {
+	"firstName": "Shakira",
+	"lastName": "Hermiston",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 7367,
+	"floor": 42,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Francesco Stark",
+		"ext": 7154
+	}]
+}, {
+	"firstName": "Serenity",
+	"lastName": "Labadie",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 6848,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Lela",
+	"lastName": "Schaefer",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 1542,
+	"floor": 90,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Rollin",
+	"lastName": "Hermann",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 5972,
+	"floor": 46,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Walton Stanton",
+		"ext": 3596
+	}]
+}, {
+	"firstName": "Breanna",
+	"lastName": "Mitchell",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 9045,
+	"floor": 13,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Maximillian Watsica",
+		"ext": 4294
+	}]
+}, {
+	"firstName": "Christian",
+	"lastName": "Daugherty",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 9584,
+	"floor": 47,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Johathan",
+	"lastName": "Batz",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 4341,
+	"floor": 74,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Bettye",
+	"lastName": "Frami",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1450,
+	"floor": 69,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Laurianne Vandervort",
+		"ext": 2716
+	}]
+}, {
+	"firstName": "Emma",
+	"lastName": "Brekke",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 5988,
+	"floor": 63,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Lea Hyatt Miss",
+		"ext": 5053
+	}]
+}, {
+	"firstName": "Maggie",
+	"lastName": "Shanahan",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 3176,
+	"floor": 51,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Aliyah Baumbach",
+		"ext": 1254
+	}]
+}, {
+	"firstName": "Aurelie",
+	"lastName": "Oberbrunner",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1450,
+	"floor": 72,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Alphonso Hilpert",
+		"ext": 2128
+	}]
+}, {
+	"firstName": "Wilmer",
+	"lastName": "Koch",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 1456,
+	"floor": 23,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Rupert Streich",
+		"ext": 6710
+	}]
+}, {
+	"firstName": "Rosemary",
+	"lastName": "Kuvalis",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 6618,
+	"floor": 26,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Regan Jerde",
+		"ext": 7764
+	}]
+}, {
+	"firstName": "Danial",
+	"lastName": "Predovic",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 1927,
+	"floor": 18,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Liam Will",
+		"ext": 8955
+	}]
+}, {
+	"firstName": "Alan",
+	"lastName": "Kling",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 3853,
+	"floor": 68,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mayra Botsford",
+		"ext": 8237
+	}]
+}, {
+	"firstName": "William",
+	"lastName": "Rippin",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 5062,
+	"floor": 89,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Ali",
+	"lastName": "Vandervort",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 7714,
+	"floor": 60,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Vernon Zieme Ms.",
+		"ext": 2888
+	}]
+}, {
+	"firstName": "Emery",
+	"lastName": "Hudson",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 3812,
+	"floor": 43,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Mariela",
+	"lastName": "Lynch",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 3476,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mr. Gaetano Brekke",
+		"ext": 4965
+	}]
+}, {
+	"firstName": "Hortense",
+	"lastName": "Halvorson",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 6267,
+	"floor": 96,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Miss Keanu Zemlak",
+		"ext": 9055
+	}]
+}, {
+	"firstName": "Laverna",
+	"lastName": "Buckridge",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 9389,
+	"floor": 73,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Norma Vandervort",
+		"ext": 3162
+	}]
+}, {
+	"firstName": "Shanny",
+	"lastName": "Reynolds",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 9182,
+	"floor": 87,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Krystina",
+	"lastName": "Fay",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 9664,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Danielle",
+	"lastName": "Hane",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 7263,
+	"floor": 24,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Cooper Muller",
+		"ext": 4708
+	}]
+}, {
+	"firstName": "Marcella",
+	"lastName": "Senger",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6701,
+	"floor": 49,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Estel",
+	"lastName": "Feeney",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 7035,
+	"floor": 96,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Tyrel Spinka",
+		"ext": 1374
+	}]
+}, {
+	"firstName": "Felton",
+	"lastName": "Klein",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 7412,
+	"floor": 62,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mrs. Rosendo Adams",
+		"ext": 9196
+	}]
+}, {
+	"firstName": "Bradford",
+	"lastName": "Davis",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 7254,
+	"floor": 21,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Lance Botsford Mrs.",
+		"ext": 8856
+	}]
+}, {
+	"firstName": "Tiara",
+	"lastName": "Corwin",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 6030,
+	"floor": 81,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Asha",
+	"lastName": "Johns",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6576,
+	"floor": 63,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Aletha Wiegand",
+		"ext": 1670
+	}]
+}, {
+	"firstName": "Vida",
+	"lastName": "Pfeffer",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 4642,
+	"floor": 70,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Brycen Collier Mrs.",
+		"ext": 9126
+	}]
+}, {
+	"firstName": "Jason",
+	"lastName": "Eichmann",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 8478,
+	"floor": 78,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Darian",
+	"lastName": "McLaughlin",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 3482,
+	"floor": 39,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Jewell Runolfsson",
+		"ext": 4648
+	}]
+}, {
+	"firstName": "Jessy",
+	"lastName": "Waters",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 3879,
+	"floor": 17,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dexter Kihn Ms.",
+		"ext": 5192
+	}]
+}, {
+	"firstName": "Jamarcus",
+	"lastName": "Reichel",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 1369,
+	"floor": 92,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mr. Skye Schmitt",
+		"ext": 7662
+	}]
+}, {
+	"firstName": "Aaliyah",
+	"lastName": "Stamm",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 7216,
+	"floor": 84,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Shanny",
+	"lastName": "Kub",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1264,
+	"floor": 39,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Henriette McDermott Ms.",
+		"ext": 5408
+	}]
+}, {
+	"firstName": "Ole",
+	"lastName": "Howe",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 3038,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Delia Romaguera",
+		"ext": 8069
+	}]
+}, {
+	"firstName": "Leone",
+	"lastName": "Hoppe",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 4538,
+	"floor": 37,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Hobart Wyman",
+		"ext": 8893
+	}]
+}, {
+	"firstName": "Osvaldo",
+	"lastName": "Conroy",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7340,
+	"floor": 97,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Laury Towne",
+		"ext": 6692
+	}]
+}, {
+	"firstName": "Micaela",
+	"lastName": "Dickens",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 5339,
+	"floor": 94,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Bernardo Funk",
+		"ext": 2638
+	}]
+}, {
+	"firstName": "Jerrold",
+	"lastName": "Walker",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 6278,
+	"floor": 65,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Pablo Daniel Miss",
+		"ext": 2059
+	}]
+}, {
+	"firstName": "Sheldon",
+	"lastName": "Trantow",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 5673,
+	"floor": 84,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mya Ondricka",
+		"ext": 2387
+	}]
+}, {
+	"firstName": "Dameon",
+	"lastName": "Mraz",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 9586,
+	"floor": 79,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Kris Murazik",
+		"ext": 2020
+	}]
+}, {
+	"firstName": "Cecil",
+	"lastName": "Turner",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 1372,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Santino",
+	"lastName": "DuBuque",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 4733,
+	"floor": 41,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Danielle Wehner",
+		"ext": 2643
+	}, {
+		"name": "Coby Gulgowski",
+		"ext": 5305
+	}]
+}, {
+	"firstName": "Brannon",
+	"lastName": "Gutkowski",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 3426,
+	"floor": 56,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Una Schmeler",
+		"ext": 2652
+	}]
+}, {
+	"firstName": "Alice",
+	"lastName": "Schuppe",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 3413,
+	"floor": 42,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Clay White Dr.",
+		"ext": 5935
+	}]
+}, {
+	"firstName": "Merl",
+	"lastName": "Rempel",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 5100,
+	"floor": 79,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Orlando Harber",
+		"ext": 1499
+	}]
+}, {
+	"firstName": "Ubaldo",
+	"lastName": "Wolf",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 3808,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Johann",
+	"lastName": "Volkman",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 5458,
+	"floor": 36,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Bruce Lynch",
+		"ext": 9880
+	}]
+}, {
+	"firstName": "April",
+	"lastName": "Witting",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 2030,
+	"floor": 29,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Kylee Wiza",
+		"ext": 2776
+	}]
+}, {
+	"firstName": "Pattie",
+	"lastName": "Welch",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 9110,
+	"floor": 93,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Darrick Stamm",
+		"ext": 2473
+	}]
+}, {
+	"firstName": "Madisen",
+	"lastName": "Daniel",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 9583,
+	"floor": 48,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Lynn",
+	"lastName": "Roberts",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 8703,
+	"floor": 47,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Destiney",
+	"lastName": "Wolf",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 5306,
+	"floor": 98,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Aida",
+	"lastName": "Keeling",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 6510,
+	"floor": 97,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Darron Kautzer",
+		"ext": 1235
+	}]
+}, {
+	"firstName": "Judge",
+	"lastName": "Kreiger",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 6146,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Alberto Toy Miss",
+		"ext": 7507
+	}]
+}, {
+	"firstName": "Shakira",
+	"lastName": "Hoppe",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 4299,
+	"floor": 36,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Colten",
+	"lastName": "Jacobi",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 9812,
+	"floor": 22,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Frances",
 	"lastName": "Roob",
 	"city": "New York",
 	"title": "Analyst",
-	"businessUnit": "Corporate",
+	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 8988,
-	"floor": 22,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 9430,
+	"floor": 96,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Cedrick Bernhard",
+		"ext": 2680
+	}]
 }, {
-	"firstName": "Kurt",
-	"lastName": "Rath",
+	"firstName": "Israel",
+	"lastName": "Baumbach",
 	"city": "New York",
-	"title": "Managing Director",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 9762,
-	"floor": 15,
-	"phoneNumber": "+1 212 632 6000"
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 3339,
+	"floor": 68,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Jayne Blick",
+		"ext": 6163
+	}]
 }, {
-	"firstName": "Winfield",
-	"lastName": "Langosh",
+	"firstName": "Alec",
+	"lastName": "VonRueden",
 	"city": "New York",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 7638,
-	"floor": 10,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Jamal",
-	"lastName": "Littel",
-	"city": "New York",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
 	"dept": "Information Technology",
-	"ext": 3097,
-	"floor": 76,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 7894,
+	"floor": 18,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Leonor Balistreri Ms.",
+		"ext": 4767
+	}]
 }, {
-	"firstName": "Bertram",
-	"lastName": "Keebler",
+	"firstName": "Annabell",
+	"lastName": "Deckow",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 5323,
+	"floor": 61,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Maida Lemke",
+		"ext": 2243
+	}]
+}, {
+	"firstName": "Samara",
+	"lastName": "Koepp",
 	"city": "New York",
 	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
+	"businessUnit": "Asset Management",
 	"dept": "Human Resources",
-	"ext": 5973,
-	"floor": 31,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 4708,
+	"floor": 11,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Carlee",
-	"lastName": "Lesch",
+	"firstName": "Olaf",
+	"lastName": "Dach",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 9565,
+	"floor": 55,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Bonita",
+	"lastName": "Schroeder",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 1467,
+	"floor": 90,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dayne Watsica",
+		"ext": 8522
+	}]
+}, {
+	"firstName": "Alana",
+	"lastName": "Blick",
 	"city": "New York",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 7859,
-	"floor": 28,
-	"phoneNumber": "+1 212 632 6000"
+	"dept": "Generalist",
+	"ext": 4941,
+	"floor": 81,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Cleo Block",
+		"ext": 4858
+	}]
 }, {
-	"firstName": "Alicia",
-	"lastName": "Streich",
+	"firstName": "Lenny",
+	"lastName": "Reichel",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 6729,
+	"floor": 74,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Beatrice",
+	"lastName": "Ratke",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7479,
+	"floor": 83,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Lucy Walter",
+		"ext": 9942
+	}, {
+		"name": "Freeda Ferry Ms.",
+		"ext": 4786
+	}]
+}, {
+	"firstName": "Domingo",
+	"lastName": "Frami",
 	"city": "New York",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 1821,
-	"floor": 55,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Mckenzie",
-	"lastName": "Rempel",
-	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
 	"dept": "Human Resources",
-	"ext": 8310,
-	"floor": 80,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 7539,
+	"floor": 44,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
 }, {
-	"firstName": "Brigitte",
-	"lastName": "Harris",
+	"firstName": "Cathrine",
+	"lastName": "Jast",
 	"city": "New York",
-	"title": "Vice President",
+	"title": "Director",
 	"businessUnit": "Corporate",
 	"dept": "Legal",
-	"ext": 3975,
-	"floor": 36,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 5745,
+	"floor": 28,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Malcolm O'Reilly",
+		"ext": 1184
+	}]
 }, {
-	"firstName": "Augustus",
-	"lastName": "Nader",
+	"firstName": "Alec",
+	"lastName": "Mann",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 2003,
+	"floor": 41,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Gunner Kuhn",
+		"ext": 9286
+	}]
+}, {
+	"firstName": "Irwin",
+	"lastName": "Waelchi",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 2108,
+	"floor": 81,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Jackson",
+	"lastName": "Morissette",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 3859,
+	"floor": 64,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dr. Emily Spinka",
+		"ext": 6614
+	}]
+}, {
+	"firstName": "Nicholas",
+	"lastName": "Watsica",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 2565,
+	"floor": 62,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Chandler",
+	"lastName": "Rodriguez",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Legal",
+	"ext": 6219,
+	"floor": 24,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Vince Runte",
+		"ext": 9351
+	}]
+}, {
+	"firstName": "Josianne",
+	"lastName": "Larkin",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 4663,
+	"floor": 27,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Janiya Homenick",
+		"ext": 6057
+	}]
+}, {
+	"firstName": "Ike",
+	"lastName": "Zieme",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 3124,
+	"floor": 57,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Jerrod Hessel",
+		"ext": 9633
+	}]
+}, {
+	"firstName": "Renee",
+	"lastName": "O'Connell",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 6518,
+	"floor": 77,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Mertie",
+	"lastName": "Gaylord",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 3175,
+	"floor": 67,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Hobart Roob",
+		"ext": 1259
+	}]
+}, {
+	"firstName": "Maymie",
+	"lastName": "Zboncak",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6238,
+	"floor": 63,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Russ Hoppe",
+		"ext": 1215
+	}]
+}, {
+	"firstName": "Quincy",
+	"lastName": "McClure",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 5672,
+	"floor": 87,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Alayna",
+	"lastName": "Price",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 7329,
+	"floor": 25,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Laverne Nikolaus Dr.",
+		"ext": 4179
+	}]
+}, {
+	"firstName": "Consuelo",
+	"lastName": "Crona",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 5204,
+	"floor": 47,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Cassidy Veum",
+		"ext": 8205
+	}]
+}, {
+	"firstName": "Ruth",
+	"lastName": "Dooley",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 8194,
+	"floor": 88,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mr. Ollie Murphy",
+		"ext": 6408
+	}]
+}, {
+	"firstName": "Marc",
+	"lastName": "Runte",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 5447,
+	"floor": 53,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Trey Goodwin",
+		"ext": 9731
+	}]
+}, {
+	"firstName": "Ida",
+	"lastName": "Ledner",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 9503,
+	"floor": 47,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Ms. Gerhard Sanford",
+		"ext": 3327
+	}]
+}, {
+	"firstName": "Carmel",
+	"lastName": "Pouros",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 2408,
+	"floor": 73,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Miller McKenzie",
+		"ext": 5484
+	}]
+}, {
+	"firstName": "Maegan",
+	"lastName": "Cartwright",
+	"city": "New York",
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 4370,
+	"floor": 21,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dagmar Little Miss",
+		"ext": 1780
+	}]
+}, {
+	"firstName": "Reyes",
+	"lastName": "Steuber",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 4533,
+	"floor": 14,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Crawford",
+	"lastName": "Gibson",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Information Technology",
+	"ext": 6398,
+	"floor": 56,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Brennan Welch",
+		"ext": 9621
+	}]
+}, {
+	"firstName": "Sylvia",
+	"lastName": "Jacobi",
 	"city": "New York",
 	"title": "Managing Director",
 	"businessUnit": "Asset Management",
 	"dept": "Legal",
-	"ext": 6655,
-	"floor": 42,
-	"phoneNumber": "+1 212 632 6000"
+	"ext": 1873,
+	"floor": 95,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Antonietta Price",
+		"ext": 8323
+	}]
 }, {
-	"firstName": "Nelson",
-	"lastName": "Johns",
+	"firstName": "Mireya",
+	"lastName": "Hodkiewicz",
 	"city": "New York",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 3809,
-	"floor": 99,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Sylvia",
-	"lastName": "Collier",
-	"city": "New York",
-	"title": "Senior Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 8290,
-	"floor": 12,
-	"phoneNumber": "+1 212 632 6000"
-}, {
-	"firstName": "Mélissa",
-	"lastName": "VALIÈRE",
-	"city": "Paris",
-	"title": "Senior Vice President",
+	"title": "Managing Director",
 	"businessUnit": "Corporate",
 	"dept": "Legal",
-	"ext": 9615,
-	"floor": 39,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 9443,
+	"floor": 26,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Mrs. Brody Ullrich",
+		"ext": 8174
+	}]
 }, {
-	"firstName": "Mégane",
+	"firstName": "Stanford",
+	"lastName": "Windler",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 8968,
+	"floor": 19,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dawson Lueilwitz",
+		"ext": 3744
+	}]
+}, {
+	"firstName": "Mustafa",
+	"lastName": "O'Conner",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 9665,
+	"floor": 26,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Desiree",
+	"lastName": "Spencer",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 3990,
+	"floor": 46,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Fleta Schulist",
+		"ext": 3681
+	}]
+}, {
+	"firstName": "Amalia",
+	"lastName": "Mraz",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6794,
+	"floor": 39,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Isom",
+	"lastName": "Okuneva",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 7405,
+	"floor": 89,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Myah Emmerich",
+		"ext": 1956
+	}]
+}, {
+	"firstName": "Adaline",
+	"lastName": "Harvey",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 3263,
+	"floor": 55,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Manuela Stehr",
+		"ext": 4305
+	}]
+}, {
+	"firstName": "Brian",
+	"lastName": "Ryan",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 2412,
+	"floor": 39,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Deondre Cole",
+		"ext": 9813
+	}]
+}, {
+	"firstName": "Alford",
+	"lastName": "Orn",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 8890,
+	"floor": 81,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Issac Lueilwitz",
+		"ext": 3072
+	}]
+}, {
+	"firstName": "Cloyd",
+	"lastName": "Kuphal",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 8498,
+	"floor": 76,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Vicente Considine",
+		"ext": 9214
+	}]
+}, {
+	"firstName": "Angela",
+	"lastName": "Hoppe",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 2538,
+	"floor": 97,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Kaelyn",
+	"lastName": "Fadel",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 2108,
+	"floor": 69,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Johanna Lemke Mrs.",
+		"ext": 5750
+	}]
+}, {
+	"firstName": "Queenie",
+	"lastName": "Lemke",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 8832,
+	"floor": 25,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Alexandra Langworth",
+		"ext": 1638
+	}]
+}, {
+	"firstName": "Sonya",
+	"lastName": "Jakubowski",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 7596,
+	"floor": 76,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Marguerite",
+	"lastName": "Mann",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1600,
+	"floor": 53,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Dannie",
+	"lastName": "Hettinger",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 7892,
+	"floor": 26,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Julio Waelchi Mrs.",
+		"ext": 5189
+	}]
+}, {
+	"firstName": "Colton",
+	"lastName": "Blick",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6719,
+	"floor": 51,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Elenor Kilback",
+		"ext": 3691
+	}]
+}, {
+	"firstName": "Deanna",
+	"lastName": "Ernser",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 7146,
+	"floor": 98,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Kellen",
+	"lastName": "Sanford",
+	"city": "New York",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 2539,
+	"floor": 42,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Buck Little Mrs.",
+		"ext": 8488
+	}]
+}, {
+	"firstName": "Hanna",
+	"lastName": "Brakus",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 2919,
+	"floor": 47,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Deontae Douglas",
+		"ext": 7762
+	}]
+}, {
+	"firstName": "Russ",
+	"lastName": "Zemlak",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1142,
+	"floor": 44,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Delfina Pagac",
+		"ext": 4443
+	}]
+}, {
+	"firstName": "Tomasa",
+	"lastName": "Reynolds",
+	"city": "New York",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6568,
+	"floor": 78,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Destiney Will",
+		"ext": 6832
+	}]
+}, {
+	"firstName": "Vince",
+	"lastName": "Wehner",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 5426,
+	"floor": 67,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Dr. Hassan Kiehn",
+		"ext": 6190
+	}]
+}, {
+	"firstName": "Hazle",
+	"lastName": "Grimes",
+	"city": "New York",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 2989,
+	"floor": 87,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": [{
+		"name": "Seth Carroll Ms.",
+		"ext": 5775
+	}]
+}, {
+	"firstName": "Gregory",
+	"lastName": "Stroman",
+	"city": "New York",
+	"title": "Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 7864,
+	"floor": 17,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Kristofer",
+	"lastName": "Lebsack",
+	"city": "New York",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 2727,
+	"floor": 11,
+	"phoneNumber": "+1 212 632 6000",
+	"assistants": []
+}, {
+	"firstName": "Olivie",
+	"lastName": "BOLÍVAR",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 1247,
+	"floor": 95,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lucas CHÉNIER",
+		"ext": 3651
+	}]
+}, {
+	"firstName": "Pierre",
 	"lastName": "BOLÍVAR",
 	"city": "Paris",
 	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 5687,
-	"floor": 74,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Emma",
-	"lastName": "CLÉMENCEAU",
-	"city": "Paris",
-	"title": "Associate",
 	"businessUnit": "Asset Management",
-	"dept": "Generalist",
-	"ext": 4585,
-	"floor": 71,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Information Technology",
+	"ext": 8698,
+	"floor": 24,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Léa",
-	"lastName": "ZÉNO",
+	"firstName": "Lucile",
+	"lastName": "SUÁREZ",
 	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 8888,
-	"floor": 92,
-	"phoneNumber": "+44 20 7187 2000"
+	"title": "Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 5895,
+	"floor": 65,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Marie-Hélène",
-	"lastName": "RICHÉ",
+	"firstName": "Justine",
+	"lastName": "FRÈRE",
 	"city": "Paris",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 7363,
-	"floor": 98,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Generalist",
+	"ext": 9994,
+	"floor": 35,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Julien SÉNETTE Mlle",
+		"ext": 3208
+	}]
 }, {
-	"firstName": "Nina",
-	"lastName": "BOYANCÉ",
+	"firstName": "Maxence",
+	"lastName": "BEAUPRÉ",
 	"city": "Paris",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 5063,
-	"floor": 42,
-	"phoneNumber": "+44 20 7187 2000"
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 2469,
+	"floor": 12,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Juliette COUSIN",
+		"ext": 3969
+	}]
 }, {
-	"firstName": "Axel",
-	"lastName": "GUÉDRY",
+	"firstName": "Marlène",
+	"lastName": "BRUSLÉ",
 	"city": "Paris",
 	"title": "Associate",
 	"businessUnit": "Middle Market Advisory",
-	"dept": "Legal",
-	"ext": 4062,
-	"floor": 96,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Noa",
-	"lastName": "BOULANGER",
-	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 1545,
-	"floor": 81,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Marie-José",
-	"lastName": "DURAND",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 5495,
-	"floor": 72,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Baptiste",
-	"lastName": "GUÉNARD",
-	"city": "Paris",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 8026,
-	"floor": 86,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Maud",
-	"lastName": "BOISDORÉ",
-	"city": "Paris",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 9793,
-	"floor": 27,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Lisa",
-	"lastName": "FRÉDÉRIC",
-	"city": "Paris",
-	"title": "Vice President",
-	"businessUnit": "Asset Management",
 	"dept": "Generalist",
-	"ext": 3611,
-	"floor": 51,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 1481,
+	"floor": 88,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Dr Sarah BOUTTÉ",
+		"ext": 8962
+	}]
 }, {
-	"firstName": "Tom",
-	"lastName": "GÓMES",
-	"city": "Paris",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 6181,
-	"floor": 39,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Mégane",
-	"lastName": "ZÉRINGUE",
-	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 2372,
-	"floor": 62,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Gabriel",
-	"lastName": "RUÍZ",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 8543,
-	"floor": 91,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Jeanne",
-	"lastName": "ZÉNON",
+	"firstName": "Nathan",
+	"lastName": "GRÉGOIRE",
 	"city": "Paris",
 	"title": "Vice President",
 	"businessUnit": "Corporate",
 	"dept": "Information Technology",
-	"ext": 8314,
-	"floor": 39,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 9012,
+	"floor": 25,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Victor ZÉNON",
+		"ext": 2458
+	}]
 }, {
-	"firstName": "Alexandre",
-	"lastName": "DURAND",
+	"firstName": "Adrien",
+	"lastName": "CARRÉ",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 9670,
+	"floor": 83,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Mathilde DARTÈZ",
+		"ext": 8862
+	}]
+}, {
+	"firstName": "Marie-Ange",
+	"lastName": "PORÉE",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 6040,
+	"floor": 72,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Mlle Pierre BOLÍVAR",
+		"ext": 8092
+	}]
+}, {
+	"firstName": "Mathéo",
+	"lastName": "COUSIN",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 8378,
+	"floor": 72,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Louis",
+	"lastName": "GUÉDRY",
 	"city": "Paris",
 	"title": "Associate",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 6081,
-	"floor": 98,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Legal",
+	"ext": 5719,
+	"floor": 97,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lydie PÉCOT",
+		"ext": 2525
+	}]
+}, {
+	"firstName": "Baptiste",
+	"lastName": "THOMAS",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 2586,
+	"floor": 72,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Mégane",
+	"lastName": "BÉRARD",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 9033,
+	"floor": 57,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Prof Geneviève VALIÈRE",
+		"ext": 1226
+	}]
+}, {
+	"firstName": "Romain",
+	"lastName": "THÉRIOT",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 4601,
+	"floor": 33,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Gabriel",
+	"lastName": "GUTIÉRREZ",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 8782,
+	"floor": 39,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lilou FRÈRE",
+		"ext": 5515
+	}]
+}, {
+	"firstName": "Louna",
+	"lastName": "DE BORÉ",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 8198,
+	"floor": 55,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lucas ANDRE Mme",
+		"ext": 6959
+	}]
+}, {
+	"firstName": "Quentin",
+	"lastName": "PETIT",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6030,
+	"floor": 47,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
 	"firstName": "Léa",
+	"lastName": "ANDRE",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 5404,
+	"floor": 99,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Julien ÁLVAREZ",
+		"ext": 4095
+	}]
+}, {
+	"firstName": "Lucrèce",
+	"lastName": "VALÉRY",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 9423,
+	"floor": 62,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Justine DÉCUIR",
+		"ext": 2862
+	}]
+}, {
+	"firstName": "Sarah",
+	"lastName": "DÍAZ",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 2060,
+	"floor": 35,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Gustave",
+	"lastName": "BOLÍVAR",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 5532,
+	"floor": 98,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Lydie",
+	"lastName": "CHRÉTIEN",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Human Resources",
+	"ext": 8007,
+	"floor": 99,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Marie-Hélène DAUPHINÉ",
+		"ext": 8581
+	}]
+}, {
+	"firstName": "Marie-France",
+	"lastName": "MARTY",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Asset Management",
+	"dept": "Generalist",
+	"ext": 2818,
+	"floor": 30,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Armand BÉRARD",
+		"ext": 6833
+	}]
+}, {
+	"firstName": "Guillaume",
 	"lastName": "DUBOIS",
 	"city": "Paris",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 6812,
-	"floor": 73,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Legal",
+	"ext": 6310,
+	"floor": 63,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Marthe BOLÍVAR",
+		"ext": 6440
+	}]
 }, {
-	"firstName": "Kylian",
-	"lastName": "ÉTIENNE",
-	"city": "Paris",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 6843,
-	"floor": 33,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Nancy",
+	"firstName": "Juliette",
 	"lastName": "CHÊNET",
 	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 5920,
-	"floor": 81,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Lilou",
-	"lastName": "FOURNIER",
-	"city": "Paris",
 	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Legal",
-	"ext": 2737,
-	"floor": 60,
-	"phoneNumber": "+44 20 7187 2000"
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 2440,
+	"floor": 91,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Nicolas BRUSLÉ",
+		"ext": 4832
+	}]
 }, {
-	"firstName": "Benjamin",
-	"lastName": "HERVE",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3468,
-	"floor": 10,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Mathéo",
-	"lastName": "ST. ANDRÉ",
+	"firstName": "Julie",
+	"lastName": "DURAND",
 	"city": "Paris",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 6611,
-	"floor": 97,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Legal",
+	"ext": 8184,
+	"floor": 74,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Anaïs BLACHÉ",
+		"ext": 1413
+	}]
 }, {
-	"firstName": "Murielle",
-	"lastName": "BALQUÉ",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 1357,
-	"floor": 44,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Paul",
-	"lastName": "CARRÉ",
-	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 8551,
-	"floor": 29,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Guillaume",
+	"firstName": "Alice",
 	"lastName": "VALÉRY",
 	"city": "Paris",
 	"title": "Senior Vice President",
 	"businessUnit": "Corporate",
 	"dept": "Legal",
-	"ext": 5037,
-	"floor": 89,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 5969,
+	"floor": 19,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Marie FOURNIER",
+		"ext": 6242
+	}]
 }, {
-	"firstName": "Morgane",
-	"lastName": "GARCÍA",
+	"firstName": "Muriel",
+	"lastName": "BALQUÉ",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Information Technology",
+	"ext": 9736,
+	"floor": 84,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Elisa",
+	"lastName": "ZÉRINGUE",
+	"city": "Paris",
+	"title": "Managing Director",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 3449,
+	"floor": 60,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lydie HÉBERT",
+		"ext": 4159
+	}]
+}, {
+	"firstName": "Maïté",
+	"lastName": "CHÂTAIGNER",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 4234,
+	"floor": 49,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Mme Nancy PETIT",
+		"ext": 8642
+	}]
+}, {
+	"firstName": "Noëlle",
+	"lastName": "BOUTTÉ",
 	"city": "Paris",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 6207,
-	"floor": 54,
-	"phoneNumber": "+44 20 7187 2000"
+	"dept": "Generalist",
+	"ext": 7708,
+	"floor": 44,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Mathis",
-	"lastName": "DE BORÉ",
+	"firstName": "Nicolette",
+	"lastName": "DÉCUIR",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6235,
+	"floor": 93,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Marie-Pierre ZÉRINGUE Mlle",
+		"ext": 1536
+	}]
+}, {
+	"firstName": "Baptiste",
+	"lastName": "DARTÈS",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 2106,
+	"floor": 68,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Marie-Christine",
+	"lastName": "DUBOIS",
 	"city": "Paris",
 	"title": "Managing Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Legal",
-	"ext": 3135,
-	"floor": 95,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 4725,
+	"floor": 90,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Yanis",
-	"lastName": "CARRIÈRE",
+	"firstName": "Maïté",
+	"lastName": "GÓMES",
+	"city": "Paris",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1682,
+	"floor": 84,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Louna",
+	"lastName": "BERNABÉ",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 7940,
+	"floor": 27,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Noah BAILLY",
+		"ext": 1613
+	}]
+}, {
+	"firstName": "Michelle",
+	"lastName": "BOUCHER",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 4942,
+	"floor": 39,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Clara",
+	"lastName": "ÉTIENNE",
+	"city": "Paris",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 2687,
+	"floor": 50,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Ines ANDRÉ",
+		"ext": 8744
+	}]
+}, {
+	"firstName": "Michelle",
+	"lastName": "DARTÈS",
 	"city": "Paris",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 3709,
-	"floor": 83,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 1390,
+	"floor": 12,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Noémie REYNÈS",
+		"ext": 9315
+	}]
 }, {
-	"firstName": "Hugo",
-	"lastName": "RÉNAUD",
+	"firstName": "Laura",
+	"lastName": "ZÉRINGUE",
+	"city": "Paris",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 3180,
+	"floor": 49,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Lucille",
+	"lastName": "ZÉNON",
+	"city": "Paris",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 6016,
+	"floor": 56,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Mael RÉNAUD Prof",
+		"ext": 3404
+	}]
+}, {
+	"firstName": "Noémi",
+	"lastName": "ÁLVAREZ",
 	"city": "Paris",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 7288,
-	"floor": 83,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 1620,
+	"floor": 85,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Nathalie CARRIÈRE",
+		"ext": 1770
+	}]
 }, {
-	"firstName": "Mohamed",
+	"firstName": "Nadine",
+	"lastName": "DARTÈZ",
+	"city": "Paris",
+	"title": "Managing Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Legal",
+	"ext": 6437,
+	"floor": 38,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Célia HERVE",
+		"ext": 2908
+	}]
+}, {
+	"firstName": "Charlotte",
+	"lastName": "ST. ANDRÉ",
+	"city": "Paris",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 1290,
+	"floor": 40,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Pierre BENOÎT",
+		"ext": 3593
+	}]
+}, {
+	"firstName": "Benjamin",
+	"lastName": "BOUCHER",
+	"city": "Paris",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 8867,
+	"floor": 73,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Rayan CARRÈRE Mme",
+		"ext": 8409
+	}]
+}, {
+	"firstName": "Clément",
+	"lastName": "DARTÈS",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 3779,
+	"floor": 66,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Marie-Claire",
+	"lastName": "HERVE",
+	"city": "Paris",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 4229,
+	"floor": 34,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Murielle",
+	"lastName": "RUÍZ",
+	"city": "Paris",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 3062,
+	"floor": 71,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Charlotte BOUTTÉ Mme",
+		"ext": 8033
+	}]
+}, {
+	"firstName": "Carla",
 	"lastName": "CLÉMENCEAU",
 	"city": "Paris",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 3759,
-	"floor": 53,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Lina",
-	"lastName": "FOURNIER",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3694,
-	"floor": 85,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Mélodie",
-	"lastName": "ZÉNON",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 3188,
-	"floor": 80,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Stéphane",
-	"lastName": "DESPRÉS",
-	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 9046,
-	"floor": 18,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Maxime",
-	"lastName": "THOMAS",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 9280,
-	"floor": 84,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Julien",
-	"lastName": "BERNABÉ",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 9360,
-	"floor": 14,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 6986,
+	"floor": 15,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Marielle FRÉDÉRIC",
+		"ext": 3071
+	}]
 }, {
-	"firstName": "Rayan",
-	"lastName": "DAUPHINÉ",
-	"city": "Paris",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 2234,
-	"floor": 83,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Noëlle",
-	"lastName": "DARTÈS",
-	"city": "Paris",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 9117,
-	"floor": 56,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Théodore",
-	"lastName": "HÉBERT",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 8138,
-	"floor": 24,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Juliette",
-	"lastName": "BOUCHER",
-	"city": "Paris",
-	"title": "Vice President",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 8342,
-	"floor": 86,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Lucile",
-	"lastName": "BOLÍVAR",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 9227,
-	"floor": 80,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Théodore",
-	"lastName": "ROUSSÈVE",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 2471,
-	"floor": 92,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Clara",
-	"lastName": "GUTIÉRREZ",
-	"city": "Paris",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 3500,
-	"floor": 19,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Alicia",
-	"lastName": "GARCÍA",
-	"city": "Paris",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 6976,
-	"floor": 74,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Louis",
-	"lastName": "ROUSSÈVE",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 3017,
-	"floor": 47,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Marie-Pierre",
-	"lastName": "FOURNIER",
+	"firstName": "Maud",
+	"lastName": "GRÉGOIRE",
 	"city": "Paris",
 	"title": "Associate",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 9266,
-	"floor": 83,
-	"phoneNumber": "+44 20 7187 2000"
+	"ext": 9553,
+	"floor": 70,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Prof Marie-Hélène ANDRÉ",
+		"ext": 5024
+	}]
 }, {
-	"firstName": "Nina",
-	"lastName": "ROUSSÈVE",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 9097,
-	"floor": 29,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Romain",
-	"lastName": "DÍAS",
-	"city": "Paris",
-	"title": "Senior Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 9515,
-	"floor": 26,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Lydie",
-	"lastName": "DÍAS",
-	"city": "Paris",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 3632,
-	"floor": 94,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Eva",
-	"lastName": "DE KERLÉGAND",
-	"city": "Paris",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 5351,
-	"floor": 82,
-	"phoneNumber": "+44 20 7187 2000"
-}, {
-	"firstName": "Henriette",
-	"lastName": "Prosacco",
-	"city": "London",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 5628
-}, {
-	"firstName": "Chesley",
-	"lastName": "Friesen",
-	"city": "London",
-	"title": "Analyst",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 9927
-}, {
-	"firstName": "Toby",
-	"lastName": "Schneider",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 5677
-}, {
-	"firstName": "Emmanuel",
-	"lastName": "Hagenes",
-	"city": "London",
-	"title": "Analyst",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 3163
-}, {
-	"firstName": "Dejuan",
-	"lastName": "Heathcote",
-	"city": "London",
-	"title": "Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 7826
-}, {
-	"firstName": "Twila",
-	"lastName": "Lakin",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 1607
-}, {
-	"firstName": "Rosendo",
-	"lastName": "McLaughlin",
-	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 9157
-}, {
-	"firstName": "Ryleigh",
-	"lastName": "Schaefer",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 4036
-}, {
-	"firstName": "Immanuel",
-	"lastName": "Dicki",
-	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 2736
-}, {
-	"firstName": "Elta",
-	"lastName": "Heller",
-	"city": "London",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 7054
-}, {
-	"firstName": "Paige",
-	"lastName": "Gerhold",
-	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 5005
-}, {
-	"firstName": "Katelynn",
-	"lastName": "Rosenbaum",
-	"city": "London",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3260
-}, {
-	"firstName": "Amos",
-	"lastName": "Windler",
-	"city": "London",
-	"title": "Analyst",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 6302
-}, {
-	"firstName": "Noelia",
-	"lastName": "Renner",
-	"city": "London",
-	"title": "Director",
-	"businessUnit": "Middle Market Advisory",
-	"dept": "Information Technology",
-	"ext": 1600
-}, {
-	"firstName": "Bianka",
-	"lastName": "Russel",
-	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 7922
-}, {
-	"firstName": "Maureen",
-	"lastName": "McKenzie",
-	"city": "London",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 6139
-}, {
-	"firstName": "Laila",
-	"lastName": "Blick",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 1135
-}, {
-	"firstName": "Laurianne",
-	"lastName": "Herman",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 3751
-}, {
-	"firstName": "Linnea",
+	"firstName": "Joesph",
 	"lastName": "Purdy",
 	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Asset Management",
-	"dept": "Legal",
-	"ext": 4227
-}, {
-	"firstName": "Harrison",
-	"lastName": "Pfeffer",
-	"city": "London",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 6782
+	"dept": "Legal",
+	"ext": 2117,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Rosario",
-	"lastName": "Rutherford",
+	"firstName": "Eldora",
+	"lastName": "Waters",
 	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Asset Management",
-	"dept": "Information Technology",
-	"ext": 2973
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 2439,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Joey",
-	"lastName": "Wunsch",
+	"firstName": "Lilliana",
+	"lastName": "Stracke",
+	"city": "London",
+	"title": "Analyst",
+	"businessUnit": "Corporate",
+	"dept": "Generalist",
+	"ext": 1666,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Dr. Gillian Wisoky",
+		"ext": 8996
+	}]
+}, {
+	"firstName": "Cayla",
+	"lastName": "Dach",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 2376,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Grayson",
+	"lastName": "Streich",
 	"city": "London",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 1990
+	"ext": 4866,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Korbin Auer",
+		"ext": 5416
+	}]
 }, {
-	"firstName": "Domenic",
-	"lastName": "Cassin",
-	"city": "London",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 7938
-}, {
-	"firstName": "Geoffrey",
-	"lastName": "Fay",
-	"city": "London",
-	"title": "Director",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 6534
-}, {
-	"firstName": "Ora",
-	"lastName": "Oberbrunner",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 2551
-}, {
-	"firstName": "Monserrat",
-	"lastName": "Koelpin",
-	"city": "London",
-	"title": "Managing Director",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 4754
-}, {
-	"firstName": "Brody",
-	"lastName": "Gleason",
-	"city": "London",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 6315
-}, {
-	"firstName": "Clemens",
-	"lastName": "Bashirian",
+	"firstName": "Noemi",
+	"lastName": "D'Amore",
 	"city": "London",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Information Technology",
-	"ext": 2302
+	"ext": 3574,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Lew Grady",
+		"ext": 7292
+	}]
+}, {
+	"firstName": "Cora",
+	"lastName": "Boyer",
+	"city": "London",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 6380,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Anika Gutmann",
+		"ext": 5591
+	}]
+}, {
+	"firstName": "Elisabeth",
+	"lastName": "Armstrong",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7521,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Jackie Frami Dr.",
+		"ext": 4579
+	}]
+}, {
+	"firstName": "Jarrod",
+	"lastName": "Nicolas",
+	"city": "London",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 2252,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Annamarie Kemmer",
+		"ext": 8165
+	}]
+}, {
+	"firstName": "Josiah",
+	"lastName": "Hoeger",
+	"city": "London",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 8302,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Miss Garett Davis",
+		"ext": 2559
+	}]
+}, {
+	"firstName": "Isabell",
+	"lastName": "Schowalter",
+	"city": "London",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 8090,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Katelynn Bruen",
+		"ext": 4652
+	}]
+}, {
+	"firstName": "Geovanni",
+	"lastName": "Spinka",
+	"city": "London",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 4171,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Trey Langworth",
+		"ext": 6349
+	}]
+}, {
+	"firstName": "Elyssa",
+	"lastName": "Littel",
+	"city": "London",
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 7259,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Miss Gertrude Heidenreich",
+		"ext": 8435
+	}]
+}, {
+	"firstName": "Serenity",
+	"lastName": "Douglas",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 9522,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Luisa Thiel",
+		"ext": 5911
+	}]
+}, {
+	"firstName": "Cleveland",
+	"lastName": "Ledner",
+	"city": "London",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 5827,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Carlie Hamill",
+		"ext": 4603
+	}]
+}, {
+	"firstName": "Gilda",
+	"lastName": "Farrell",
+	"city": "London",
+	"title": "Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 7408,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Sincere Mueller Dr.",
+		"ext": 1943
+	}]
+}, {
+	"firstName": "Estell",
+	"lastName": "Beier",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 8449,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Brain Labadie",
+		"ext": 6506
+	}]
+}, {
+	"firstName": "Lorna",
+	"lastName": "Weimann",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 5022,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Adelbert Fadel",
+		"ext": 9417
+	}]
+}, {
+	"firstName": "Hilma",
+	"lastName": "Kuphal",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 4715,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Dr. Milton Raynor",
+		"ext": 2180
+	}]
+}, {
+	"firstName": "Lonzo",
+	"lastName": "Harris",
+	"city": "London",
+	"title": "Senior Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 7195,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Dr. Dan Sawayn",
+		"ext": 9154
+	}]
+}, {
+	"firstName": "Alexzander",
+	"lastName": "Nicolas",
+	"city": "London",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Information Technology",
+	"ext": 5746,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Ewell Langworth",
+		"ext": 3354
+	}]
+}, {
+	"firstName": "Casey",
+	"lastName": "Harvey",
+	"city": "London",
+	"title": "Managing Director",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 9171,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Nyasia Farrell",
+		"ext": 6905
+	}]
+}, {
+	"firstName": "Luis",
+	"lastName": "Ebert",
+	"city": "London",
+	"title": "Director",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Generalist",
+	"ext": 4977,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Kiera Heathcote",
+		"ext": 5597
+	}]
 }, {
 	"firstName": "Rebeka",
-	"lastName": "Keeling",
+	"lastName": "McCullough",
 	"city": "London",
 	"title": "Director",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 5153
+	"dept": "Legal",
+	"ext": 1844,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Novella",
-	"lastName": "Cassin",
+	"firstName": "Sasha",
+	"lastName": "Klocko",
 	"city": "London",
-	"title": "Managing Director",
+	"title": "Associate",
 	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 5585
+	"dept": "Information Technology",
+	"ext": 2737,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Alysa Jaskolski Mr.",
+		"ext": 7210
+	}]
 }, {
-	"firstName": "Wilmer",
-	"lastName": "Jerde",
-	"city": "Chicago",
+	"firstName": "Susie",
+	"lastName": "Stark",
+	"city": "London",
 	"title": "Senior Vice President",
 	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 3745
+	"ext": 4482,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
 }, {
-	"firstName": "Pascale",
-	"lastName": "Schamberger",
+	"firstName": "Mikel",
+	"lastName": "Little",
+	"city": "London",
+	"title": "Analyst",
+	"businessUnit": "Financial Advisory",
+	"dept": "Information Technology",
+	"ext": 5024,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": []
+}, {
+	"firstName": "Eda",
+	"lastName": "Bailey",
+	"city": "London",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 6644,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Kaci Reichel",
+		"ext": 6544
+	}]
+}, {
+	"firstName": "Leo",
+	"lastName": "Torphy",
+	"city": "London",
+	"title": "Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 7295,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Myrl Klocko",
+		"ext": 1613
+	}]
+}, {
+	"firstName": "Amaya",
+	"lastName": "MacGyver",
+	"city": "London",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 8470,
+	"phoneNumber": "+44 20 7187 2000",
+	"assistants": [{
+		"name": "Princess Vandervort Mr.",
+		"ext": 6200
+	}]
+}, {
+	"firstName": "Marcella",
+	"lastName": "West",
 	"city": "Chicago",
 	"title": "Director",
 	"businessUnit": "Corporate",
 	"dept": "Information Technology",
-	"ext": 2442
+	"ext": 7041,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Mozelle Gerhold",
+		"ext": 9077
+	}]
 }, {
-	"firstName": "Garret",
-	"lastName": "Gibson",
-	"city": "Chicago",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3000
-}, {
-	"firstName": "Angelo",
-	"lastName": "Lang",
-	"city": "Chicago",
-	"title": "Senior Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 4399
-}, {
-	"firstName": "Marcos",
-	"lastName": "Mayert",
-	"city": "Chicago",
-	"title": "Senior Vice President",
-	"businessUnit": "Middle Market Advisory",
-	"dept": "Information Technology",
-	"ext": 4193
-}, {
-	"firstName": "Pierre",
-	"lastName": "Bogisich",
-	"city": "Chicago",
-	"title": "Associate",
-	"businessUnit": "Financial Advisory",
-	"dept": "Human Resources",
-	"ext": 5855
-}, {
-	"firstName": "Fiona",
-	"lastName": "Keeling",
+	"firstName": "Zechariah",
+	"lastName": "Abbott",
 	"city": "Chicago",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 5573
+	"dept": "Legal",
+	"ext": 8296,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
 }, {
-	"firstName": "Shemar",
-	"lastName": "Schimmel",
+	"firstName": "Ewald",
+	"lastName": "Graham",
 	"city": "Chicago",
 	"title": "Managing Director",
-	"businessUnit": "Asset Management",
-	"dept": "Human Resources",
-	"ext": 5160
-}, {
-	"firstName": "Kenyatta",
-	"lastName": "Ortiz",
-	"city": "Chicago",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
+	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 8422
+	"ext": 9877,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
 }, {
-	"firstName": "Conner",
-	"lastName": "Rippin",
+	"firstName": "Rosalia",
+	"lastName": "Mraz",
+	"city": "Chicago",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 6892,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
+}, {
+	"firstName": "Nigel",
+	"lastName": "Lubowitz",
+	"city": "Chicago",
+	"title": "Director",
+	"businessUnit": "Corporate",
+	"dept": "Legal",
+	"ext": 5286,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
+}, {
+	"firstName": "Oswaldo",
+	"lastName": "Macejkovic",
+	"city": "Chicago",
+	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 4460,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Milan Douglas Mr.",
+		"ext": 3192
+	}]
+}, {
+	"firstName": "Dejuan",
+	"lastName": "Johns",
+	"city": "Chicago",
+	"title": "Associate",
+	"businessUnit": "Asset Management",
+	"dept": "Information Technology",
+	"ext": 1485,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Lawrence Gislason",
+		"ext": 6912
+	}]
+}, {
+	"firstName": "Viviane",
+	"lastName": "Goldner",
 	"city": "Chicago",
 	"title": "Associate",
 	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 2587
-}, {
-	"firstName": "Hobart",
-	"lastName": "Dickinson",
-	"city": "Chicago",
-	"title": "Managing Director",
-	"businessUnit": "Middle Market Advisory",
-	"dept": "Information Technology",
-	"ext": 1590
-}, {
-	"firstName": "Margaretta",
-	"lastName": "Heathcote",
-	"city": "Chicago",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
 	"dept": "Human Resources",
-	"ext": 1990
+	"ext": 8561,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Carey Goldner",
+		"ext": 9406
+	}]
 }, {
-	"firstName": "Shad",
-	"lastName": "Gutmann",
+	"firstName": "Zelma",
+	"lastName": "Bergnaum",
+	"city": "Chicago",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 5815,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Baron Wintheiser Mrs.",
+		"ext": 6819
+	}]
+}, {
+	"firstName": "Delia",
+	"lastName": "Cormier",
 	"city": "Chicago",
 	"title": "Vice President",
 	"businessUnit": "Corporate",
-	"dept": "Generalist",
-	"ext": 4314
+	"dept": "Legal",
+	"ext": 7067,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Keven Bode",
+		"ext": 3504
+	}]
 }, {
-	"firstName": "Cecilia",
-	"lastName": "Price",
-	"city": "Chicago",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Information Technology",
-	"ext": 6242
-}, {
-	"firstName": "Estel",
-	"lastName": "Ruecker",
+	"firstName": "Melba",
+	"lastName": "Littel",
 	"city": "Chicago",
 	"title": "Analyst",
 	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 3531
+	"dept": "Legal",
+	"ext": 2899,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Ursula Welch",
+		"ext": 4966
+	}]
 }, {
-	"firstName": "Abigayle",
-	"lastName": "Zboncak",
+	"firstName": "Trenton",
+	"lastName": "Marvin",
 	"city": "Chicago",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Legal",
+	"ext": 4494,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Stephania Keebler",
+		"ext": 8095
+	}]
+}, {
+	"firstName": "Colton",
+	"lastName": "Koss",
+	"city": "Chicago",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 6405,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
+}, {
+	"firstName": "Bailey",
+	"lastName": "Ullrich",
+	"city": "Chicago",
+	"title": "Managing Director",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 4931,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": []
+}, {
+	"firstName": "Elva",
+	"lastName": "Hahn",
+	"city": "Chicago",
+	"title": "Vice President",
+	"businessUnit": "Financial Advisory",
+	"dept": "Generalist",
+	"ext": 1153,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Mrs. Zoila Casper",
+		"ext": 6526
+	}]
+}, {
+	"firstName": "Nora",
+	"lastName": "Raynor",
+	"city": "Chicago",
+	"title": "Associate",
+	"businessUnit": "Corporate",
+	"dept": "Human Resources",
+	"ext": 7814,
+	"phoneNumber": "+1 312 407 6600",
+	"assistants": [{
+		"name": "Modesta Balistreri",
+		"ext": 3650
+	}]
+}, {
+	"firstName": "Kathryne",
+	"lastName": "Swift",
+	"city": "Houston",
+	"title": "Vice President",
+	"businessUnit": "Middle Market Advisory",
+	"dept": "Legal",
+	"ext": 1360,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Dr. Colton Fisher",
+		"ext": 3544
+	}]
+}, {
+	"firstName": "Francesco",
+	"lastName": "Ryan",
+	"city": "Houston",
+	"title": "Associate",
+	"businessUnit": "Financial Advisory",
+	"dept": "Human Resources",
+	"ext": 9258,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Abel Stehr Mrs.",
+		"ext": 5353
+	}]
+}, {
+	"firstName": "Jamel",
+	"lastName": "Muller",
+	"city": "Houston",
 	"title": "Vice President",
 	"businessUnit": "Asset Management",
 	"dept": "Information Technology",
-	"ext": 3935
+	"ext": 1854,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Janet Schultz",
+		"ext": 5631
+	}]
 }, {
-	"firstName": "Clifford",
-	"lastName": "Jacobi",
+	"firstName": "Colt",
+	"lastName": "Wilkinson",
 	"city": "Houston",
 	"title": "Vice President",
 	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 6012
+	"ext": 7871,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Lottie Schneider Miss",
+		"ext": 8772
+	}]
 }, {
-	"firstName": "Major",
-	"lastName": "Von",
+	"firstName": "Guido",
+	"lastName": "Rogahn",
 	"city": "Houston",
-	"title": "Associate",
-	"businessUnit": "Corporate",
-	"dept": "Information Technology",
-	"ext": 6913
-}, {
-	"firstName": "Paul",
-	"lastName": "Medhurst",
-	"city": "Houston",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Generalist",
-	"ext": 8356
-}, {
-	"firstName": "Verdie",
-	"lastName": "Jerde",
-	"city": "Houston",
-	"title": "Associate",
+	"title": "Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Legal",
-	"ext": 6122
+	"ext": 7039,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Joel Bednar Mrs.",
+		"ext": 2650
+	}]
 }, {
-	"firstName": "Philip",
-	"lastName": "Altenwerth",
-	"city": "Houston",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Human Resources",
-	"ext": 7195
-}, {
-	"firstName": "Anita",
-	"lastName": "Keebler",
-	"city": "Houston",
-	"title": "Vice President",
-	"businessUnit": "Financial Advisory",
-	"dept": "Legal",
-	"ext": 4844
-}, {
-	"firstName": "Cierra",
-	"lastName": "Bosco",
+	"firstName": "Hipolito",
+	"lastName": "Tromp",
 	"city": "Houston",
 	"title": "Senior Vice President",
+	"businessUnit": "Asset Management",
+	"dept": "Legal",
+	"ext": 8062,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Wilma Abbott",
+		"ext": 6975
+	}]
+}, {
+	"firstName": "Katelin",
+	"lastName": "Cartwright",
+	"city": "Houston",
+	"title": "Managing Director",
 	"businessUnit": "Financial Advisory",
 	"dept": "Generalist",
-	"ext": 3335
+	"ext": 9106,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Rose Dietrich Mr.",
+		"ext": 7510
+	}]
 }, {
-	"firstName": "Lawrence",
-	"lastName": "Jast",
+	"firstName": "Gideon",
+	"lastName": "Wunsch",
 	"city": "Houston",
-	"title": "Vice President",
-	"businessUnit": "Corporate",
-	"dept": "Legal",
-	"ext": 7681
+	"title": "Analyst",
+	"businessUnit": "Asset Management",
+	"dept": "Human Resources",
+	"ext": 2372,
+	"phoneNumber": "+1 713 236 4600",
+	"assistants": [{
+		"name": "Estevan Torphy",
+		"ext": 3374
+	}]
 }]

@@ -32,6 +32,37 @@ function lazardBusinessUnitGenerator() {
 	}
 }
 
+function lazardAssistantCreator() {
+	var num = Math.random();
+	if (num < 0.65) {
+		// one assistant
+		return [{
+			name: faker.name.findName(),
+			ext: faker.random.number({
+				min: 1111,
+				max: 9999
+			})
+		}]
+	} else if (num < 0.99) {
+		return []
+	} else {
+		return [{
+			name: faker.name.findName(),
+			ext: faker.random.number({
+				min: 1111,
+				max: 9999
+			})
+		},
+		{
+			name: faker.name.findName(),
+			ext: faker.random.number({
+				min: 1111,
+				max: 9999
+			})
+		}]
+	}
+}
+
 module.exports = {
 	removeOldFiles: function(cb) {
 		fs.exists('directory.json', function(exists) {
@@ -64,7 +95,7 @@ module.exports = {
 		}
 
 		// New York Employee Creator
-		_.times(numNY, function(n) {
+		_.times(num, function(n) {
 			faker.locale = 'en';
 			directory.push({
 				// id: idCounterFunc(),
@@ -82,7 +113,8 @@ module.exports = {
 					min: 10,
 					max: 99
 				}),
-				phoneNumber: "+1 212 632 6000"
+				phoneNumber: "+1 212 632 6000",
+				assistants: lazardAssistantCreator()
 			});
 		});
 
@@ -105,7 +137,8 @@ module.exports = {
 					min: 10,
 					max: 99
 				}),
-				phoneNumber: "+44 20 7187 2000"
+				phoneNumber: "+44 20 7187 2000",
+				assistants: lazardAssistantCreator()
 			});
 		});
 
@@ -123,7 +156,9 @@ module.exports = {
 				ext: faker.random.number({
 					min: 1111,
 					max: 9999
-				})
+				}),
+				phoneNumber: "+44 20 7187 2000",
+				assistants: lazardAssistantCreator()
 			});
 		});
 
@@ -141,7 +176,9 @@ module.exports = {
 				ext: faker.random.number({
 					min: 1111,
 					max: 9999
-				})
+				}),
+				phoneNumber: "+1 312 407 6600",
+				assistants: lazardAssistantCreator()
 			});
 		});
 
@@ -159,7 +196,9 @@ module.exports = {
 				ext: faker.random.number({
 					min: 1111,
 					max: 9999
-				})
+				}),
+				phoneNumber: "+1 713 236 4600",
+				assistants: lazardAssistantCreator()
 			});
 		});
 
